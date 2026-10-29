@@ -1,0 +1,4 @@
+* text=auto
+*.png binary
+# Licence texts stay byte for byte as shipped (SHA256SUMS.licenses).
+LICENSES/** -text
